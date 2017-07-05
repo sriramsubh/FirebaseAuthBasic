@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">Mpropel User Authentication</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_login">Login</string>
+    <string name="action_login_short">Login</string>
+    <string name="action_signup_short">SignUp</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="error_auth_failed">Error Authentication Failed</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="forgetPassword">Forgot password?</string>
+    <string name="txtvw_change_password">Change Password</string>
+    <string name="forgotPasswordHelp">Dont worry we are here to help You!</string>
+    <string name="hint_email">Enter your Email_Id</string>
+    <string name="hint_old_password">Enter your old password</string>
+    <string name="hint_new_password">Enter new Password</string>
+    <string name="btn_change_password">Change Password</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_verify_email">Verify your email</string>
+    <string name="btn_back">Back</string>
+    <string name="textview_haveAccount">Have Account!! Login</string>
+    <string name="menu_changePassword">change password</string>
+</resources>
